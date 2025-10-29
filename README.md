@@ -5,6 +5,13 @@ Dongdong Lin, Benedetta Tondi, Bin Li, and Mauro Barni, “**A CycleGAN Watermar
 
 ---
 
+## 📘 Method Overview
+
+![image](pipeline.png)
+
+---
+
+
 ## 🔧 Features
 
 - **Dedicated to cycle-structure GANs** — supports watermarking in CycleGAN, DualGAN, and DiscoGAN.
@@ -65,11 +72,6 @@ python test.py
 
 ---
 
-## 📘 Method Overview
-
-![image](pipeline.png)
-
----
 
 ## 📄 Citation
 
