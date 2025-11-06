@@ -52,8 +52,8 @@ Place your dataset in:
 
 ```
 data/
- ├── trainA/      # Original images (domain A)
- ├── trainB/      # Watermarked images (domain B)
+ ├── trainA/      # domain A
+ ├── trainB/      # domain B
  ├── testA/
  └── testB/
 ```
